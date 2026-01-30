@@ -1,5 +1,5 @@
 // Full Mesh Network Visualization - Glowing Neon Lines
-// Bright neon green connections with glow effects
+// Bright neon green connections with glow effects..
 
 import { DroneState } from '@/types/swarm';
 import { useMemo } from 'react';
