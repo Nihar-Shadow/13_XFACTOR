@@ -1,4 +1,4 @@
-// Control Panel Component - Mission controls and actions
+// Control Panel Component - Mission controls and actions..
 
 import { FormationType } from '@/types/swarm';
 import { cn } from '@/lib/utils';
