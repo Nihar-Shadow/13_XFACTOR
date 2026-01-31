@@ -83,7 +83,7 @@ Follow these steps to set up the project locally:
 
 ## 🐛 Debugging & Status
 
-*   **Heartbeat**: Monitors the communication frequency of the Master drone.
+*   **Heartbeat**: Monitors the communication frequency of the Master drone and slave drone.
 *   **Timeout**: The threshold before a drone is considered lost.
 *   **FPS**: The simulation tick rate (default 20 updates/second).
 
